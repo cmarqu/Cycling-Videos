@@ -1,0 +1,24 @@
+00:00:01.000 --> 00:00:10.000
+Title: ES_Locubin
+Original running time: 01:23:31.800
+
+00:20:52.950 --> 00:21:02.950
+You have reached a quarter of the total time.
+
+00:27:48.929 --> 00:27:58.929
+You have reached a third of the total time.
+
+00:41:45.900 --> 00:41:55.900
+You have reached half of the total time.
+
+00:55:42.871 --> 00:55:52.871
+You have reached two thirds of the total time.
+
+01:02:38.850 --> 01:02:48.850
+You have reached 3/4th of the total time.
+
+01:15:10.620 --> 01:15:20.620
+10 percent to go!
+
+01:19:21.210 --> 01:19:31.210
+Only 5 percent to go!

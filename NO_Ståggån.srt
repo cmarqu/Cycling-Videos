@@ -1,0 +1,24 @@
+00:00:01.000 --> 00:00:10.000
+Title: NO_Ståggån
+Original running time: 00:07:57.000
+
+00:01:59.250 --> 00:02:09.250
+You have reached a quarter of the total time.
+
+00:02:38.841 --> 00:02:48.841
+You have reached a third of the total time.
+
+00:03:58.500 --> 00:04:08.500
+You have reached half of the total time.
+
+00:05:18.159 --> 00:05:28.159
+You have reached two thirds of the total time.
+
+00:05:57.750 --> 00:06:07.750
+You have reached 3/4th of the total time.
+
+00:07:09.300 --> 00:07:19.300
+10 percent to go!
+
+00:07:33.150 --> 00:07:43.150
+Only 5 percent to go!

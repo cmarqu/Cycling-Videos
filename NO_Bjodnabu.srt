@@ -1,0 +1,24 @@
+00:00:01.000 --> 00:00:10.000
+Title: NO_Bjodnabu
+Original running time: 00:25:39.760
+
+00:06:24.940 --> 00:06:34.940
+You have reached a quarter of the total time.
+
+00:08:32.740 --> 00:08:42.740
+You have reached a third of the total time.
+
+00:12:49.880 --> 00:12:59.880
+You have reached half of the total time.
+
+00:17:07.020 --> 00:17:17.020
+You have reached two thirds of the total time.
+
+00:19:14.820 --> 00:19:24.820
+You have reached 3/4th of the total time.
+
+00:23:05.784 --> 00:23:15.784
+10 percent to go!
+
+00:24:22.772 --> 00:24:32.772
+Only 5 percent to go!

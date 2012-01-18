@@ -1,0 +1,24 @@
+There are quite some free-of-cost cycling videos for bike trainers
+on the web, e.g. at http://rlv.pcanywhere.com
+
+They consist of regular AVI video files, often GPX routes, and
+many of these come with extra files (PGMF etc.) for use with
+the trainer's manufacturer-provided software. Trainers without
+software support can still be used with the video alone, the
+user just has to set the wattage manually.
+
+This is a Makefile to play back the videos with mplayer and generate
+some automated subtitles. Playback can be slowed down (or sped up)
+so that the whole video takes a user-defined time.
+
+The automatically-generated subtitle files are in SRT format and
+contain time markers, like when you have reached a quarter, a third,
+or half the total running time. These subtitle files can then be
+augmented with information about the elevation profile of the route
+in the video. E.g. at time 7:40, it could say "Steep climb in 20
+seconds, lasting 70 seconds" so that the user is prepared.
+
+
+Testing has been done with Ubuntu Linux 11.10.
+
+(Keywords: Tacx, Kettler, Hometrainer, RLV, RealVideo)

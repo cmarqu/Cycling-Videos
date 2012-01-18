@@ -1,0 +1,24 @@
+00:00:01.000 --> 00:00:10.000
+Title: NO_Vadla
+Original running time: 00:17:41.800
+
+00:04:25.450 --> 00:04:35.450
+You have reached a quarter of the total time.
+
+00:05:53.579 --> 00:06:03.579
+You have reached a third of the total time.
+
+00:08:50.900 --> 00:09:00.900
+You have reached half of the total time.
+
+00:11:48.221 --> 00:11:58.221
+You have reached two thirds of the total time.
+
+00:13:16.350 --> 00:13:26.350
+You have reached 3/4th of the total time.
+
+00:15:55.620 --> 00:16:05.620
+10 percent to go!
+
+00:16:48.710 --> 00:16:58.710
+Only 5 percent to go!

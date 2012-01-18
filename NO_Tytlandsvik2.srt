@@ -1,0 +1,24 @@
+00:00:01.000 --> 00:00:10.000
+Title: NO_Tytlandsvik2
+Original running time: 01:02:17.770
+
+00:15:34.443 --> 00:15:44.443
+You have reached a quarter of the total time.
+
+00:20:44.677 --> 00:20:54.677
+You have reached a third of the total time.
+
+00:31:08.885 --> 00:31:18.885
+You have reached half of the total time.
+
+00:41:33.093 --> 00:41:43.093
+You have reached two thirds of the total time.
+
+00:46:43.327 --> 00:46:53.327
+You have reached 3/4th of the total time.
+
+00:56:03.993 --> 00:56:13.993
+10 percent to go!
+
+00:59:10.881 --> 00:59:20.882
+Only 5 percent to go!
