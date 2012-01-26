@@ -1,5 +1,7 @@
 # -*- makefile-gmake -*-
 
+# License: Creative Common Zero
+
 # Use play the movie in 15 minutes (regardless of original movie length):
 #
 #   make MOVIE_NAME=NO_Bjodnabu T=15
