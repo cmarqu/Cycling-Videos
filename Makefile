@@ -22,6 +22,7 @@ MOVIE_LENGTH:=$(shell mplayer -vo null -ao null -frames 0 -identify $(MOVIE_NAME
 T:=$(MOVIE_LENGTH)/60
 
 MPLAYER_OPTS += -fs
+MPLAYER_OPTS += -ao null
 MPLAYER_OPTS += -volume 0
 MPLAYER_OPTS += -loop 0
 MPLAYER_OPTS += -menu
